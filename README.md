@@ -24,7 +24,7 @@ Due to Google's restriction on non-Watch Face Format (WFF) watchfaces, KWCH is n
 NOTE: KWCH cannot be used on smartwatches with Wear OS 5 initially installed. Older watches that have been updated will still work (e.g. Samsung Watch 6).
 
 ## KWCH Settings
-It is important to set all the complications like shown below, so that the watchface can function correctly.
+It is important to set all the complications as shown below for the watch face to function correctly.
 - **Complication 1**: Steps
 - **Complication 2**: Event timer ([Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp))
 - **Complication 3**: Weather (Temperature)
