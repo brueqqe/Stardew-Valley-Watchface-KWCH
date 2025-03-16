@@ -23,6 +23,9 @@ To use the Portal Watchface, the KWCH Kustom Watchface Creator app must be insta
 
 Due to Google's restriction on non-Watch Face Format (WFF) watchfaces, KWCH is no longer available in the Google Play Store. However, you can still download the APKs from the official website of the creator of KWCH: [KWCH download link](https://docs.kustom.rocks/docs/general_information/cracked_free/)
 
+Kustom Watchface Phone app (KWCH) must be installed on the phone. NOTE: The pro version of KWCH is required to import the watchface.
+Kustom Watchface Wear app must be installed on the watch (unfortunately this is currently only possible via sideloading).
+
 NOTE: KWCH cannot be used on smartwatches with Wear OS 5 initially installed. Older watches that have been updated will still work (e.g. Samsung Watch 6).
 
 NOTE 2: To import the watchface you need to purchase the pro Version of KWCH which costs 1$ (lifetime, no abo).
