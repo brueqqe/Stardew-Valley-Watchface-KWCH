@@ -3,12 +3,12 @@
 Stardew Valley themed watch face for Wear OS smartwatches made with KWCH.
 
 ## Features
-![Stardew Valley DEMO Github](https://github.com/user-attachments/assets/e3bf7b1d-e510-4337-a040-19cf4a4f8908)
+![Stardew Valley DEMO-GIF](https://github.com/user-attachments/assets/c1037c91-3e82-4fa5-ad96-bb8812bec1a4)
 
 The watchface displays the following information:
 - **Time**: 12/24 hour format can be changed in KWCH
 - **Date**
-- **Battery**: The health and energy bars show the battery status of the watch (W) and phone (H). The colour of the bars changes as you lose energy/battery. The exhaustion icon is displayed when the battery is below 15%.
+- **Battery**: The health and energy bars show the battery status of the watch (W) and phone (P). The colour of the bars changes as you lose energy/battery. The exhaustion icon is displayed when the battery is below 15%.
 - **Day Progress**: The arrow moves according to the time of the sunrise and sunset.
 - **Steps**: The current number of steps (S) is displayed instead of a gold counter.
 - **Temperature**: In addition to the step counter, there is a second counter showing the current temperature (T).
