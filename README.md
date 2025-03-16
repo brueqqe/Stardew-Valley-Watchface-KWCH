@@ -25,6 +25,8 @@ Due to Google's restriction on non-Watch Face Format (WFF) watchfaces, KWCH is n
 
 NOTE: KWCH cannot be used on smartwatches with Wear OS 5 initially installed. Older watches that have been updated will still work (e.g. Samsung Watch 6).
 
+NOTE 2: To import the watchface you need to purchase the pro Version of KWCH which costs 1$ (lifetime, no abo).
+
 ## KWCH Settings
 It is important to set all the complications as shown below for the watch face to function correctly.
 - **Complication 1**: Steps
