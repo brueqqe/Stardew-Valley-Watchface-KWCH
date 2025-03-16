@@ -3,7 +3,7 @@
 Stardew Valley themed watch face for Wear OS smartwatches made with KWCH.
 
 ## Features
-![Stardew Valley DEMO Github](https://github.com/user-attachments/assets/abfa6f48-88a1-4c74-9ab3-c7cb0bbba232)
+![Stardew Valley DEMO Github](https://github.com/user-attachments/assets/e3bf7b1d-e510-4337-a040-19cf4a4f8908)
 
 The watchface displays the following information:
 - **Time**: 12/24 hour format can be changed in KWCH
