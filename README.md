@@ -9,11 +9,13 @@ The watchface displays the following information:
 - **Time**: 12/24 hour format can be changed in KWCH
 - **Date**
 - **Battery**: The health and energy bars show the battery status of the watch (W) and phone (P). The colour of the bars changes as you lose energy/battery. The exhaustion icon is displayed when the battery is below 15%.
+- **Day Progress**: The arrow moves according to the time of the sunrise and sunset.
 - **Steps**: The current number of steps (S) is displayed instead of a gold counter.
 - **Temperature**: In addition to the step counter, there is a second counter showing the current temperature (T).
 - **Daily calendar event**: If you have a daily calendar event, the journal icon is displayed. The icon also acts as a shortcut to open the calendar application on the watch.
 - **Seasons icon**: The season icon changes according to the current season.
 - **Temperature icon**: The temperature icon cannot currently be changed based on the actual weather. Therefore, the festival icon is always displayed.
+- **Background**: Different backgrounds for day and night (based on sunset and sunrise times).
 
 ## Installation Guide
 To use the Portal Watchface, the KWCH Kustom Watchface Creator app must be installed on the smartphone. IMPORTANT: To import the Portal Watchface, the Pro version of the app must be purchased.
