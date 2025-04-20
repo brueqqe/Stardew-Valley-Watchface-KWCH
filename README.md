@@ -30,3 +30,16 @@ Kustom Watchface Wear app must be installed on the watch (unfortunately this is 
 NOTE: KWCH cannot be used on smartwatches with Wear OS 5 initially installed. Older watches that have been updated will still work (e.g. Samsung Watch 6).
 
 NOTE 2: To import the watchface you need to purchase the pro Version of KWCH which costs 1$ (lifetime, no abo).
+
+## KWCH Settings
+It is important to set all the complications as shown below for the watch face to function correctly.
+- **Complication 1**: Steps
+- **Complication 2**: Event timer ([Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp))
+- **Complication 3**: Weather (Temperature)
+- **Complication 4**: Upcoming Event ([Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp))
+- **Complication 5**: Smartphone Battery ([Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp))
+- **Complication 6**: Smartwatch Battery ([Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp))
+- **Complication 7**: Dynamic calendar icon ([Complications Suite](https://play.google.com/store/apps/details?id=com.weartools.weekdayutccomp))
+- **Complication 8**: Next Event
+
+![Complications](https://github.com/user-attachments/assets/3c450351-3478-448b-9985-756f15c9ef12)
